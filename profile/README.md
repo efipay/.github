@@ -21,7 +21,6 @@
 </p>
 
 ---
-
 <br>
 
 <a href='https://dev.efipay.com.br/' target='_blank' rel="noopener noreferrer">
